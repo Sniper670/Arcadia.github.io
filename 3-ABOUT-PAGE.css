@@ -1,0 +1,193 @@
+ .u-section-1 {
+  background-image: linear-gradient(to right, #478ac9, #db545a);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1099px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 456px;
+  height: 456px;
+  background-image: url("images/Poki.jpg");
+  background-position: 50% 50%;
+  margin: 13px auto 0 13px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -411px 180px 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  margin: 94px 0 0 496px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: none;
+  font-size: 2.25rem;
+  margin: 111px 394px 0 auto;
+  padding: 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 22px 218px 60px 423px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 180px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -577px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 249px;
+    margin-left: 296px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 194px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 58px;
+    margin-right: 118px;
+    margin-left: 323px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 76px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -37px;
+    margin-right: 8px;
+    margin-left: 213px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 142px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -539px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 211px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+    margin-left: 41px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 983px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 340px;
+    margin-top: -86px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -195px;
+    margin-right: 113px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -4px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -9px;
+    margin-left: 0;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 601px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin: 60px auto 60px 0;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 481px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 481px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px 22px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 26px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 397px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 397px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 371px;
+  }
+}
